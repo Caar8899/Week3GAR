@@ -1,2 +1,2 @@
 # Week3GAR
-Graded Assesment of Week3
+I am editinf the README file. Adding somee more details about the project description.
